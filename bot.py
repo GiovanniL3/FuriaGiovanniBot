@@ -1,3 +1,4 @@
+
 #t.me/FuriaGiovanniBot
 #Chave da API: 7272480776:AAHJ2QpwQWVIdaRGIO3-P4ixNrLc9fs_rwk
 #pip install python-telegram-bot
